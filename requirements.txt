@@ -1,4 +1,4 @@
 numpy
-pandas
 streamlit
-altair
+pandas<3
+altair<4.2.2
